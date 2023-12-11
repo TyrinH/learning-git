@@ -6,3 +6,4 @@ Nuggets
 Quesadillas
 Nachos
 Fries
+Tomato soup
