@@ -5,3 +5,4 @@ Burritos
 Nuggets
 Quesadillas
 Nachos
+Fries
